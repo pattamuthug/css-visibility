@@ -1,0 +1,25 @@
+.para1{
+    visibility: collapse;
+}
+.para2{
+    visibility: hidden;
+}
+tr,th,td,table{
+    border: solid 2px red;
+}
+.collapse{
+    visibility: collapse;
+}
+.para3{
+    visibility: hidden;
+}
+  
+h1{
+    /* visibility: initial; */
+}
+.in{
+    visibility: hidden;
+}
+.in .para4{
+    visibility: inherit;
+}
